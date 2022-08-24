@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mircleee
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ow to code
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on tthis project
 - 📫 How to reach me is emil metueyu5@gmail.com 
 
